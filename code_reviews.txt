@@ -1,0 +1,13 @@
+1. Concepts that are similar between both companies are that both companies encourage criticizing the code not the programmer, and to check stylistic details in order to add to ease of maintainability. 
+1. Concepts that are different between both companies is that Microsoft placed a larger emphasis on remote repository work (by mentionning pull requests, etc), and Yelp placed more of an emphasis on security and code architecture.
+1. In general, for code reviews, both companies emphasize the importance of checking for consistency in style, checking the core logic, and checking for how the architecture of the code can be altered to make it more intuitive to understand.
+
+2. https://codereview.stackexchange.com/questions/287927/rock-paper-scissors-game
+The rock paper scissors code review is a good example of a code review because of how the reviewer points out the issue within the user's code, walks through why he understand's the user's logic in choosing that implementation for his program, and then offering
+  his own implementation right after and explaining why it would be more beneficial for the user. He includes several reasons, but his main point was that it would be a more flexible implementation which would overall make the flow of the user's program better. 
+  Overall, this reviewer provided a LOT of content for the user to explore and consider, and this gives the user freedom to choose accordingly as well. 
+
+3. https://codereview.stackexchange.com/questions/249230/image-puzzle-pil-tkinter
+This Image puzzle PIL tkinter review wasn't as beneficial as it could have been. The reviewer was very kind with his feedback, but did not offer a lot of productive feedback. The reviewer could have offered code snippets, 
+  or provided more reasoning as to why he believes his GUI would be better for the game. He provided suggestions, but with not enough detail to actually be useful. I would have elaborated further on my comments in order to provide 
+  the user with clarity about what steps they can take to better their project.
